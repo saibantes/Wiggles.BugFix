@@ -3,7 +3,7 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/).
 
-## [next]
+## [v1.5.1] - 2026-10-19
 ### Added
 - bugfix: when the floor is already cluttered with stuff, gnomes might fail to lay down an item they just produced
 - bugfix: hospital might get stuck when a patient dies during treatment

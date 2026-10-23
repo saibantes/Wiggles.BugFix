@@ -1,6 +1,6 @@
 {
-	"version" : "1.5",
-	"author" : "cech12",
+	"version" : "1.5.2",
+	"author" : "saibantes",
 	
 	"name" :  {
 		"en" : "BugFix",
@@ -12,7 +12,7 @@
 	},
 	
 	"links" : {
-		"download" : "https://github.com/DigglesMods/BugFix/releases",
+		"download" : "https://github.com/saibantes/Wiggles.BugFix/releases",
 		"wiki" : "https://github.com/DigglesMods/BugFix/wiki"
 	}
 }
